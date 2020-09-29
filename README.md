@@ -4,19 +4,21 @@
 
 本项目创建于2020年9月27日。最近一次更新时间为9月29日。
 
-- [0x01-PHP语言书籍](https://github.com/0e0w/Learnphp#0x01-php%E8%AF%AD%E8%A8%80%E4%B9%A6%E7%B1%8D)
-- [0x02-PHP语言视频](https://github.com/0e0w/Learnphp#0x02-php%E8%AF%AD%E8%A8%80%E8%A7%86%E9%A2%91)
-- [0x03-PHP漏洞靶场](https://github.com/0e0w/Learnphp#0x03-php%E8%AF%AD%E8%A8%80%E8%AE%BA%E5%9D%9B)
+- [0x01-PHP学习书籍](https://github.com/0e0w/Learnphp#0x01-php%E8%AF%AD%E8%A8%80%E4%B9%A6%E7%B1%8D)
+- [0x02-PHP学习视频](https://github.com/0e0w/Learnphp#0x02-php%E8%AF%AD%E8%A8%80%E8%A7%86%E9%A2%91)
+- [0x03-PHP漏洞靶场](https://github.com/0e0w/Learnphp#0x03-php%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA)
 - [0x04-PHP代码审计](https://github.com/0e0w/Learnphp#0x04-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
 - [0x05-PHP语言框架](https://github.com/0e0w/Learnphp#0x05-php%E8%AF%AD%E8%A8%80%E6%A1%86%E6%9E%B6)
 - [0x06-PHP语言项目](https://github.com/0e0w/Learnphp#0x06-php%E8%AF%AD%E8%A8%80%E9%A1%B9%E7%9B%AE)
 - [0x07-PHP黑客工具](https://github.com/0e0w/Learnphp#0x07-php%E9%BB%91%E5%AE%A2%E5%B7%A5%E5%85%B7)
 
-## 0x01-PHP语言书籍
+## 0x01-PHP学习书籍
 
 一、基础入门
 
 - [x] [《PHP基础教程》读书笔记](https://github.com/daige/php)
+- [ ] [《PHP教程-菜鸟教程》](https://www.runoob.com/php/php-tutorial.html)
+- [ ] [《PHP完全自学教程》](https://www.php.cn/php/php-tutorial.html)
 
 二、高手进阶
 
@@ -32,9 +34,9 @@
 
 五、杂七杂八
 
-## 0x02-PHP语言视频
+## 0x02-PHP学习视频
 
-- [ ] 细说PHP
+- [ ] [PHP学习视频](https://github.com/woyard/phpmysql)
 
 ## 0x03-PHP漏洞靶场
 
