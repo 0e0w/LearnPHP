@@ -4,8 +4,8 @@
 
 本项目创建于2020年9月27日。最近一次更新时间为9月29日。
 
-- [0x01-PHP学习书籍](https://github.com/0e0w/Learnphp#0x01-php%E8%AF%AD%E8%A8%80%E4%B9%A6%E7%B1%8D)
-- [0x02-PHP学习视频](https://github.com/0e0w/Learnphp#0x02-php%E8%AF%AD%E8%A8%80%E8%A7%86%E9%A2%91)
+- [0x01-PHP学习书籍](https://github.com/0e0w/Learnphp#0x01-php%E5%AD%A6%E4%B9%A0%E4%B9%A6%E7%B1%8D)
+- [0x02-PHP学习视频](https://github.com/0e0w/Learnphp#0x02-php%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91)
 - [0x03-PHP漏洞靶场](https://github.com/0e0w/Learnphp#0x03-php%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA)
 - [0x04-PHP代码审计](https://github.com/0e0w/Learnphp#0x04-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
 - [0x05-PHP语言框架](https://github.com/0e0w/Learnphp#0x05-php%E8%AF%AD%E8%A8%80%E6%A1%86%E6%9E%B6)
@@ -22,11 +22,7 @@
 
 二、高手进阶
 
-- [ ] 
-
 三、算法学习
-
-- [ ] 
 
 四、实体书籍
 
