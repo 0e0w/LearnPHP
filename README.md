@@ -19,6 +19,7 @@
 - [x] [《PHP基础教程》读书笔记](https://github.com/daige/php)
 - [ ] [《PHP教程-菜鸟教程》](https://www.runoob.com/php/php-tutorial.html)
 - [ ] [《PHP完全自学教程》](https://www.php.cn/php/php-tutorial.html)
+- [ ] [《简明 PHP 教程》](https://github.com/zhanbai/a-byte-of-php)
 
 二、高手进阶
 
@@ -31,6 +32,7 @@
 五、杂七杂八
 
 - [ ] [PHP 优秀资源整理汇集](https://github.com/shockerli/php-awesome)
+- [ ] [awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## 0x02-PHP学习视频
 
