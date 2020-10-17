@@ -47,6 +47,8 @@
 
 ## 0x04-PHP代码审计
 
+〇、代码审计
+
 - [ ] [1000个PHP代码审计案例](https://github.com/Xyntax/1000php)
 - [ ] [PHP代码审计分段讲解](https://github.com/bowu678/php_bugs)
 - [ ] [PHP-Audit-Labs](https://github.com/hongriSec/PHP-Audit-Labs)
@@ -57,6 +59,34 @@
 - [ ] [CMS-Hunter](https://github.com/SecWiki/CMS-Hunter)
 - [ ] [PHP_Code_Challenge](https://github.com/yaofeifly/PHP_Code_Challenge)
 - [ ] https://github.com/ambionics/phpggc
+
+一、程序安装问题
+
+二、业务逻辑漏洞
+
+三、SQL注入漏洞
+
+四、变量覆盖漏洞
+
+五、任意文件上传漏洞
+
+六、任意文件写入漏洞
+
+七、任意文件删除漏洞
+
+八、任意文件包含漏洞
+
+九、任意命令执行漏洞
+
+十、PHP反序列化漏洞
+
+十一、XSS跨站脚本攻击
+
+十二、XML外部实体攻击
+
+十三、CSRF跨站请求伪造
+
+十四、SSRF服务端请求伪造
 
 ## 0x05-PHP语言框架
 
