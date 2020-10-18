@@ -2,7 +2,7 @@
 
 本项目记录自己学习PHP过程中遇到的一些优秀项目。包括一些PHP语言的基础教程和一些优秀的PHP项目代码，以及PHP代码审计的案例。尽可能去理解PHP漏洞原理，尽可能去挖掘PHP程序漏洞。作者：[0e0w](https://github.com/0e0w/LearnPHP)
 
-本项目创建于2020年9月27日。最近一次更新时间为10月17日。
+本项目创建于2020年9月27日。最近一次更新时间为10月18日。
 
 - [0x01-PHP学习书籍](https://github.com/0e0w/Learnphp#0x01-php%E5%AD%A6%E4%B9%A0%E4%B9%A6%E7%B1%8D)
 - [0x02-PHP学习视频](https://github.com/0e0w/Learnphp#0x02-php%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91)
@@ -10,7 +10,7 @@
 - [0x04-PHP代码审计](https://github.com/0e0w/Learnphp#0x04-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
 - [0x05-PHP语言框架](https://github.com/0e0w/Learnphp#0x05-php%E8%AF%AD%E8%A8%80%E6%A1%86%E6%9E%B6)
 - [0x06-PHP语言项目](https://github.com/0e0w/Learnphp#0x06-php%E8%AF%AD%E8%A8%80%E9%A1%B9%E7%9B%AE)
-- [0x07-PHP黑客工具](https://github.com/0e0w/Learnphp#0x07-php%E9%BB%91%E5%AE%A2%E5%B7%A5%E5%85%B7)
+- [0x07-PHP安全工具](https://github.com/0e0w/Learnphp#0x07-php%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7)
 
 ## 0x01-PHP学习书籍
 
@@ -59,6 +59,8 @@
 - [ ] [CMS-Hunter](https://github.com/SecWiki/CMS-Hunter)
 - [ ] [PHP_Code_Challenge](https://github.com/yaofeifly/PHP_Code_Challenge)
 - [ ] https://github.com/ambionics/phpggc
+- [ ] https://github.com/vimeo/psalm
+- [ ] https://github.com/nikic/php-parser
 
 一、程序安装问题
 
@@ -97,13 +99,56 @@
 
 - [ ] ThinkPHP
 
-## 0x07-PHP黑客工具
+## 0x07-PHP安全工具
 
-〇、HackWithPHP
+〇、HackWithPython
+
+- [ ] https://github.com/topics/xss?l=php
+- [ ] https://github.com/topics/xss-attacks?l=php
 
 一、Webshell
 
 - [ ] https://github.com/tennc/webshell
+
+二、域名扫描
+
+- [ ] https://github.com
+
+三、密码爆破
+
+- [ ] https://github.com
+
+四、端口扫描
+
+- [ ] https://github.com
+
+五、目录扫描
+
+- [ ] https://github.com
+
+六、Web安全
+
+- [ ] https://github.com
+
+七、漏洞扫描
+
+- [ ] https://github.com/Tuhinshubhra/RED_HAWK
+
+八、代理隧道
+
+- [ ] https://github.com
+
+九、病毒免杀
+
+- [ ] https://github.com
+
+十、代码审计
+
+- [ ] https://github.com
+
+十一、其他项目
+
+- [ ] https://github.com
 
 ## 0x08-PHP语言老师
 
