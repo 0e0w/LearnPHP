@@ -8,8 +8,8 @@
 - [0x02-PHP学习视频](https://github.com/0e0w/Learnphp#0x02-php%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91)
 - [0x03-PHP漏洞靶场](https://github.com/0e0w/Learnphp#0x03-php%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA)
 - [0x04-PHP代码审计](https://github.com/0e0w/Learnphp#0x04-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
-- [0x05-PHP语言框架](https://github.com/0e0w/Learnphp#0x05-php%E8%AF%AD%E8%A8%80%E6%A1%86%E6%9E%B6)
-- [0x06-PHP语言项目](https://github.com/0e0w/Learnphp#0x06-php%E8%AF%AD%E8%A8%80%E9%A1%B9%E7%9B%AE)
+- [0x05-PHP框架漏洞](https://github.com/0e0w/Learnphp#0x05-php%E6%A1%86%E6%9E%B6%E6%BC%8F%E6%B4%9E)
+- [0x06-PHP学习项目](https://github.com/0e0w/Learnphp#0x06-php%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
 - [0x07-PHP安全工具](https://github.com/0e0w/Learnphp#0x07-php%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7)
 
 ## 0x01-PHP学习书籍
@@ -40,10 +40,10 @@
 
 ## 0x03-PHP漏洞靶场
 
-- [ ] [upload-labs](https://github.com/c0ny1/upload-labs)
+- [ ] [DVWA](https://github.com/digininja/DVWA)
 - [ ] [ZVulDrill](https://github.com/710leo/ZVulDrill)
 - [ ] [DoraBox](https://github.com/Acmesec/DoraBox)
-- [ ] [DVWA](https://github.com/digininja/DVWA)
+- [ ] [upload-labs](https://github.com/c0ny1/upload-labs)
 
 ## 0x04-PHP代码审计
 
@@ -92,12 +92,17 @@
 
 十四、SSRF服务端请求伪造
 
-## 0x05-PHP语言框架
+## 0x05-PHP框架漏洞
 
-- [ ] [ThinkPHP](https://github.com/top-think)
-- [ ] [YII](https://www.yiiframework.com/)
+一、Thinkphp
 
-## 0x06-PHP语言项目
+- [ ] http://www.thinkphp.cn
+
+二、YII
+
+- [ ] https://xz.aliyun.com/t/8307
+
+## 0x06-PHP学习项目
 
 - [ ] https://github.com/simon816/PHPDeobfuscator
 
