@@ -2,7 +2,7 @@
 
 本项目记录自己学习PHP过程中遇到的一些优秀项目。包括一些PHP语言的基础教程和一些优秀的PHP项目代码，以及PHP代码审计的案例。尽可能的理解PHP，尽可能的去挖掘PHP程序漏洞。作者：[0e0w](https://github.com/0e0w/LearnPHP)
 
-本项目创建于2020年9月27日。最近一次更新时间为10月21日。
+本项目创建于2020年9月27日。最近一次更新时间为10月23日。
 
 - [0x01-PHP学习书籍](https://github.com/0e0w/Learnphp#0x01-php%E5%AD%A6%E4%B9%A0%E4%B9%A6%E7%B1%8D)
 - [0x02-PHP学习视频](https://github.com/0e0w/Learnphp#0x02-php%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91)
@@ -16,7 +16,7 @@
 
 一、基础入门
 
-- [x] [《PHP基础教程》读书笔记](https://github.com/daige/php)
+- [x] [《PHP基础教程》笔记](https://github.com/daige/php)
 - [ ] [《PHP教程-菜鸟教程》](https://www.runoob.com/php/php-tutorial.html)
 - [ ] [《PHP完全自学教程》](https://www.php.cn/php/php-tutorial.html)
 - [ ] [《简明 PHP 教程》](https://github.com/zhanbai/a-byte-of-php)
@@ -94,8 +94,8 @@
 
 ## 0x05-PHP语言框架
 
-- [ ] ThinkPHP
-- [ ] YII
+- [ ] [ThinkPHP](https://github.com/top-think)
+- [ ] [YII](https://www.yiiframework.com/)
 
 ## 0x06-PHP语言项目
 
@@ -134,6 +134,8 @@
 
 七、漏洞扫描
 
+- [ ] https://github.com/Cvar1984/sqlscan
+- [ ] https://github.com/radenvodka/SVScanner
 - [ ] https://github.com/Tuhinshubhra/RED_HAWK
 
 八、代理隧道
