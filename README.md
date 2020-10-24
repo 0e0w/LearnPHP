@@ -118,6 +118,9 @@
 一、Webshell
 
 - [ ] https://github.com/tennc/webshell
+- [ ] https://github.com/flozz/p0wny-shell
+- [ ] https://github.com/mIcHyAmRaNe/wso-webshell
+- [ ] https://github.com/lcatro/PHP-WebShell-Bypass-WAF
 
 二、域名扫描
 
