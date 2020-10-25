@@ -32,14 +32,15 @@
 
 - [x] 《细说PHP》@高洛峰
 
-五、杂七杂八
+五、学习视频
+
+- [ ] [PHP学习视频](https://github.com/woyard/phpmysql)
+
+六、杂七杂八
 
 - [ ] [PHP 优秀资源整理汇集](https://github.com/shockerli/php-awesome)
 - [ ] [awesome-php](https://github.com/ziadoz/awesome-php)
-
-六、学习视频
-
-- [ ] [PHP学习视频](https://github.com/woyard/phpmysql)
+- [ ] [awesome-php-cn](https://github.com/jobbole/awesome-php-cn)
 
 ## 0x02-PHP学习项目
 
