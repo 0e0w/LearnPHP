@@ -10,9 +10,9 @@
 
 - [0x01-PHP学习资源]()
 - [0x02-PHP学习项目]()
-- [0x03-PHP漏洞靶场](https://github.com/0e0w/Learnphp#0x04-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
-- [0x04-PHP框架漏洞]()
-- [0x05-PHP学习项目]()
+- [0x03-PHP漏洞靶场]()
+- [0x04-PHP代码审计]()
+- [0x05-PHP框架漏洞]()
 - [0x06-PHP安全工具]()
 
 ## 0x01-PHP学习资源
