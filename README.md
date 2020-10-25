@@ -8,15 +8,14 @@
 
 本项目创建于2020年9月27日。最近一次更新时间为10月25日。
 
-- [0x01-PHP学习书籍](https://github.com/0e0w/Learnphp#0x01-php%E5%AD%A6%E4%B9%A0%E4%B9%A6%E7%B1%8D)
-- [0x02-PHP学习视频](https://github.com/0e0w/Learnphp#0x02-php%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91)
-- [0x03-PHP漏洞靶场](https://github.com/0e0w/Learnphp#0x03-php%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA)
-- [0x04-PHP代码审计](https://github.com/0e0w/Learnphp#0x04-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
-- [0x05-PHP框架漏洞](https://github.com/0e0w/Learnphp#0x05-php%E6%A1%86%E6%9E%B6%E6%BC%8F%E6%B4%9E)
-- [0x06-PHP学习项目](https://github.com/0e0w/Learnphp#0x06-php%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
-- [0x07-PHP安全工具](https://github.com/0e0w/Learnphp#0x07-php%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7)
+- [0x01-PHP学习资源]()
+- [0x02-PHP学习项目]()
+- [0x03-PHP漏洞靶场](https://github.com/0e0w/Learnphp#0x04-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
+- [0x04-PHP框架漏洞]()
+- [0x05-PHP学习项目]()
+- [0x06-PHP安全工具]()
 
-## 0x01-PHP学习书籍
+## 0x01-PHP学习资源
 
 一、基础入门
 
@@ -38,9 +37,13 @@
 - [ ] [PHP 优秀资源整理汇集](https://github.com/shockerli/php-awesome)
 - [ ] [awesome-php](https://github.com/ziadoz/awesome-php)
 
-## 0x02-PHP学习视频
+六、学习视频
 
 - [ ] [PHP学习视频](https://github.com/woyard/phpmysql)
+
+## 0x02-PHP学习项目
+
+- [ ] https://github.com/simon816/PHPDeobfuscator
 
 ## 0x03-PHP漏洞靶场
 
@@ -53,8 +56,6 @@
 
 〇、代码审计
 
-- [ ] [1000个PHP代码审计案例](https://github.com/Xyntax/1000php)
-- [ ] [PHP代码审计分段讲解](https://github.com/bowu678/php_bugs)
 - [ ] [PHP-Audit-Labs](https://github.com/hongriSec/PHP-Audit-Labs)
 - [ ] [php_bug_wiki](https://github.com/aleenzz/php_bug_wiki)
 - [ ] [Audit-Learning](https://github.com/jiangsir404/Audit-Learning)
@@ -64,6 +65,8 @@
 - [ ] https://github.com/ambionics/phpggc
 - [ ] https://github.com/vimeo/psalm
 - [ ] https://github.com/nikic/php-parser
+- [ ] [PHP代码审计分段讲解](https://github.com/bowu678/php_bugs)
+- [ ] [1000个PHP代码审计案例](https://github.com/Xyntax/1000php)
 - [ ] [高级PHP应用程序漏洞审核技术](https://github.com/Jyny/pasc2at)
 - [ ] https://github.com/SukaraLin/php_code_audit_project
 - [ ] https://www.freebuf.com/articles/web/252333.html
@@ -106,11 +109,11 @@
 
 - [ ] https://xz.aliyun.com/t/8307
 
-## 0x06-PHP学习项目
+三、Laravel
 
-- [ ] https://github.com/simon816/PHPDeobfuscator
+- [ ] https://laravel.com
 
-## 0x07-PHP安全工具
+## 0x06-PHP安全工具
 
 〇、HackWithPython
 
@@ -167,6 +170,6 @@
 - [ ] https://github.com
 - [ ] https://github.com/Raikia/FiercePhish
 
-## 0x08-PHP语言老师
+## 0x07-PHP语言老师
 
 - [ ] 高洛峰
