@@ -23,6 +23,7 @@
 - [ ] [《PHP教程-菜鸟教程》](https://www.runoob.com/php/php-tutorial.html)
 - [ ] [《PHP完全自学教程》](https://www.php.cn/php/php-tutorial.html)
 - [ ] [《简明 PHP 教程》](https://github.com/zhanbai/a-byte-of-php)
+- [ ] [《Clean Code PHP》](https://github.com/jupeter/clean-code-php)
 
 二、高手进阶
 
