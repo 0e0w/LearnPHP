@@ -6,7 +6,7 @@
 
 关于PHP的学习教程，可以参考[《365天深入理解PHP》](https://github.com/0e0w/365PHP)。
 
-本项目创建于2020年9月27日。最近一次更新时间为10月27日。
+本项目创建于2020年9月27日。最近一次更新时间为11月06日。
 
 - [0x01-PHP学习资源](https://github.com/0e0w/LearnPHP#0x01-php%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [0x02-PHP学习项目](https://github.com/0e0w/LearnPHP#0x02-php%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
@@ -42,6 +42,7 @@
 - [ ] [PHP 优秀资源整理汇集](https://github.com/shockerli/php-awesome)
 - [ ] [awesome-php](https://github.com/ziadoz/awesome-php)
 - [ ] [awesome-php-cn](https://github.com/jobbole/awesome-php-cn)
+- [ ] https://github.com/TIGERB/easy-tips
 
 ## 0x02-PHP学习项目
 
