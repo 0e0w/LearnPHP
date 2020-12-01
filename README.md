@@ -27,11 +27,12 @@
 
 二、高级进阶
 
-三、算法学习
+三、内置函数
 
 四、实体书籍
 
-- [x] 《细说PHP》@高洛峰
+- [ ] [《细说PHP》](https://item.jd.com/12669278.html)@高洛峰
+- [ ] [《PHP内核剖析》](https://item.jd.com/12267210.html)@秦朋
 
 五、学习视频
 
@@ -47,7 +48,6 @@
 - [ ] https://github.com/composer/composer
 - [ ] https://github.com/superve/php-development
 - [ ] https://github.com/wudi/php-internals-material
-- [ ] https://github.com/CmderQ/About-php
 
 ## 0x02-PHP学习项目
 
