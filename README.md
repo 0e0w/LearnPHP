@@ -6,7 +6,7 @@
 
 关于PHP的其他学习教程，可以参考[《365天深入理解PHP》](https://github.com/0e0w/365PHP)。PHP是世界上最好的语言！
 
-本项目创建于2020年9月27日，最近一次更新时间为2020年12月1日。
+本项目创建于2020年9月27日，最近一次更新时间为2020年12月2日。
 
 - [0x01-PHP学习资源](https://github.com/0e0w/LearnPHP#0x01-php%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [0x02-PHP学习项目](https://github.com/0e0w/LearnPHP#0x02-php%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
@@ -19,14 +19,18 @@
 
 一、基础入门
 
-- [x] [《PHP基础教程》笔记](https://github.com/daige/php)
-- [ ] [《PHP菜鸟教程》](https://www.runoob.com/php/php-tutorial.html)
-- [ ] [《PHPw3school教程》](https://www.w3school.com.cn/php/index.asp)
-- [ ] [《PHP易百教程》](https://www.yiibai.com/php/)
+- [x] [《PHP基础教程》](https://github.com/daige/php)@daige
+- [ ] [《PHP菜鸟教程》](https://www.runoob.com/php/php-tutorial.html)@runoob
+- [ ] [《PHP教程》](https://www.w3school.com.cn/php/index.asp)@w3school
+- [ ] [《PHP易百教程》](https://www.yiibai.com/php/)@yiibai
 - [ ] [《PHP完全自学教程》](https://www.php.cn/php/php-tutorial.html)
-- [ ] [《简明 PHP 教程》](https://github.com/zhanbai/a-byte-of-php)
-- [ ] [《Clean Code PHP》](https://github.com/jupeter/clean-code-php)
-- [ ] https://wiki.jikexueyuan.com/list/php
+- [ ] [《简明PHP教程》](https://github.com/zhanbai/a-byte-of-php)@zhanbai
+- [ ] [《PHP新手指南》](https://wiki.jikexueyuan.com/project/php/)
+- [ ] [《PHP之道》](http://wulijun.github.io/php-the-right-way)@wulijun
+- [ ] [《PHP开发者实践》](https://ryancao.gitbooks.io/php-developer-prepares/content)
+- [ ] [《PHP最佳实践》](https://wiki.jikexueyuan.com/project/php-best-practices)
+- [ ] [《Clean Code PHP》](https://github.com/jupeter/clean-code-php)@jupeter
+- [ ] [《php-the-right-way》](https://github.com/codeguy/php-the-right-way)@codeguy
 
 二、高级进阶
 
@@ -36,6 +40,7 @@
 
 - [ ] [《细说PHP》](https://item.jd.com/12669278.html)@高洛峰
 - [ ] [《PHP内核剖析》](https://item.jd.com/12267210.html)@秦朋
+- [ ] [《Modern PHP》](https://item.jd.com/11786541.html)@安道译
 
 五、学习视频
 
