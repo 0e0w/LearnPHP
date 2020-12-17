@@ -6,7 +6,7 @@
 
 关于PHP的其他学习教程，可以参考[《365天深入理解PHP》](https://github.com/0e0w/365PHP)。PHP是世界上最好的语言！
 
-本项目创建于2020年9月27日，最近一次更新时间为2020年12月14日。
+本项目创建于2020年9月27日，最近一次更新时间为2020年12月17日。
 
 - [0x01-PHP学习资源](https://github.com/0e0w/LearnPHP#0x01-php%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [0x02-PHP学习项目](https://github.com/0e0w/LearnPHP#0x02-php%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
@@ -76,8 +76,6 @@
 
 ## 0x04-PHP代码审计
 
-〇、代码审计
-
 - [ ] [PHP-Audit-Labs](https://github.com/hongriSec/PHP-Audit-Labs)
 - [ ] [php_bug_wiki](https://github.com/aleenzz/php_bug_wiki)
 - [ ] [Audit-Learning](https://github.com/jiangsir404/Audit-Learning)
@@ -93,34 +91,7 @@
 - [ ] https://github.com/SukaraLin/php_code_audit_project
 - [ ] https://www.freebuf.com/articles/web/252333.html
 - [ ] https://github.com/ambionics/phpggc
-
-一、程序安装问题
-
-二、业务逻辑漏洞
-
-三、SQL注入漏洞
-
-四、变量覆盖漏洞
-
-五、任意文件上传漏洞
-
-六、任意文件写入漏洞
-
-七、任意文件删除漏洞
-
-八、任意文件包含漏洞
-
-九、任意命令执行漏洞
-
-十、PHP反序列化漏洞
-
-十一、XSS跨站脚本攻击
-
-十二、XML外部实体攻击
-
-十三、CSRF跨站请求伪造
-
-十四、SSRF服务端请求伪造
+- [ ] https://github.com/xdebug/xdebug
 
 ## 0x05-PHP框架漏洞
 
