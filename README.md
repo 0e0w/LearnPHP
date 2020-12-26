@@ -6,7 +6,7 @@
 
 关于PHP的其他学习教程，可以参考[《365天深入理解PHP》](https://github.com/0e0w/365PHP)。PHP是世界上最好的语言！
 
-本项目创建于2020年9月27日，最近一次更新时间为2020年12月20日。
+本项目创建于2020年9月27日，最近一次更新时间为2020年12月26日。
 
 - [0x01-PHP学习资源](https://github.com/0e0w/LearnPHP#0x01-php%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [0x02-PHP学习项目](https://github.com/0e0w/LearnPHP#0x02-php%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
@@ -91,6 +91,7 @@
 - [ ] https://github.com/SukaraLin/php_code_audit_project
 - [ ] https://www.freebuf.com/articles/web/252333.html
 - [ ] https://github.com/xdebug/xdebug
+- [ ] https://github.com/lightswitch05/php-version-audit
 
 ## 0x05-PHP框架漏洞
 
