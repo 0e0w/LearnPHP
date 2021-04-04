@@ -1,12 +1,10 @@
 # LearnPHP
 
-本项目记录学习PHP过程中遇到的一些优秀项目。包括PHP语言的基础教程和优秀的PHP项目代码。
-
-尽可能的理解PHP，尽可能的理解PHP漏洞原理，尽可能的去挖掘PHP漏洞。作者：[0e0w](https://github.com/0e0w/LearnPHP)
+本项目记录学习PHP过程中遇到的一些优秀项目。包括优秀的基础教程和项目代码等。尽可能的理解PHP，尽可能的理解PHP漏洞原理，尽可能的挖掘PHP漏洞。作者：[0e0w](https://github.com/0e0w/LearnPHP)
 
 关于PHP的其他学习教程，可以参考[《365天深入理解PHP》](https://github.com/0e0w/365PHP)。PHP是世界上最好的语言！
 
-本项目创建于2020年9月27日，最近一次更新时间为2021年3月21日。
+本项目创建于2020年9月27日，最近一次更新时间为2021年4月4日。
 
 - [0x01-PHP学习资源](https://github.com/0e0w/LearnPHP#0x01-php%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [0x02-PHP学习项目](https://github.com/0e0w/LearnPHP#0x02-php%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
@@ -159,7 +157,7 @@
 
 十、代码审计
 
-- [ ] https://github.com
+- [ ] https://github.com/phpstan/phpstan
 
 十一、其他项目
 
