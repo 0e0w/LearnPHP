@@ -4,7 +4,7 @@
 
 关于PHP的其他学习教程，可以参考[《365天深入理解PHP》](https://github.com/0e0w/365PHP)。PHP是世界上最好的语言！
 
-本项目创建于2020年9月27日，最近一次更新时间为2021年5月4日。
+本项目创建于2020年9月27日，最近一次更新时间为2021年5月17日。
 
 - [0x01-PHP学习资源](https://github.com/0e0w/LearnPHP#0x01-php%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [0x02-PHP学习项目](https://github.com/0e0w/LearnPHP#0x02-php%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
@@ -159,6 +159,7 @@
 十、代码审计
 
 - [ ] https://github.com/phpstan/phpstan
+- [ ] https://github.com/marcocesarato/PHP-Antimalware-Scanner
 
 十一、其他项目
 
