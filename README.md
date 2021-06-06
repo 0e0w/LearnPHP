@@ -4,7 +4,7 @@
 
 关于PHP的其他学习教程，可以参考[《365天深入理解PHP》](https://github.com/0e0w/365PHP)。PHP是世界上最好的语言！
 
-本项目创建于2020年9月27日，最近一次更新时间为2021年5月17日。
+本项目创建于2020年9月27日，最近一次更新时间为2021年6月6日。
 
 - [0x01-PHP学习资源](https://github.com/0e0w/LearnPHP#0x01-php%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [0x02-PHP学习项目](https://github.com/0e0w/LearnPHP#0x02-php%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
@@ -67,11 +67,12 @@
 
 ## 0x03-PHP漏洞靶场
 
-- [ ] [DVWA](https://github.com/digininja/DVWA)
-- [ ] [ZVulDrill](https://github.com/710leo/ZVulDrill)
-- [ ] [DoraBox](https://github.com/Acmesec/DoraBox)
-- [ ] [upload-labs](https://github.com/c0ny1/upload-labs)
-- [ ] [XVWA](https://github.com/s4n7h0/xvwa)
+- [ ] https://github.com/digininja/DVWA
+- [ ] https://github.com/710leo/ZVulDrill
+- [ ] https://github.com/Acmesec/DoraBox
+- [ ] https://github.com/c0ny1/upload-labs
+- [ ] https://github.com/s4n7h0/xvwa
+- [ ] https://github.com/wgpsec/VulnRange
 
 ## 0x04-PHP代码审计
 
@@ -151,6 +152,7 @@
 八、代理隧道
 
 - [ ] https://github.com/MorouU/php_light_agent
+- [ ] https://github.com/ZeroDream-CN/SakuraPanel
 
 九、病毒免杀
 
@@ -167,6 +169,7 @@
 - [ ] https://github.com/Raikia/FiercePhish
 - [ ] https://github.com/Hunter-0x07/HBScanner
 - [ ] https://github.com/GemGeorge/SniperPhish
+- [ ] https://github.com/smaranchand/bucky
 
 ## 0x07-PHP语言老师
 
