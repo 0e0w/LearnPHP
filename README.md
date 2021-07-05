@@ -47,9 +47,9 @@
 七、面试资料
 
 八、其它资源
-- [ ] [awesome-php](https://github.com/ziadoz/awesome-php)
-- [ ] [php-awesome](https://github.com/shockerli/php-awesome)
-- [ ] [awesome-php-cn](https://github.com/jobbole/awesome-php-cn)
+- [ ] https://github.com/ziadoz/awesome-php
+- [ ] https://github.com/shockerli/php-awesome
+- [ ] https://github.com/jobbole/awesome-php-cn
 - [ ] https://github.com/TIGERB/easy-tips
 - [ ] https://github.com/VKCOM/kphp
 - [ ] https://github.com/composer/composer
@@ -83,7 +83,6 @@
 本部分详解PHP漏洞内容。包括PHP的常规漏洞，以及PHP代码审计等相关内容。
 
 一、PHP漏洞靶场
-
 - [ ] https://github.com/digininja/DVWA
 - [ ] https://github.com/710leo/ZVulDrill
 - [ ] https://github.com/Acmesec/DoraBox
@@ -92,7 +91,6 @@
 - [ ] https://github.com/wgpsec/VulnRange
 
 二、PHP代码审计
-
 - [ ] https://github.com/hongriSec/PHP-Audit-Labs
 - [ ] https://github.com/aleenzz/php_bug_wiki
 - [ ] https://github.com/jiangsir404/Audit-Learning
@@ -113,27 +111,20 @@
 - [ ] https://github.com/marcocesarato/PHP-Antimalware-Scanner
 
 三、常规Web漏洞
-
 本部分详细列举常见的Java安全漏洞内容。
-
 - 程序安装问题
 - 业务逻辑漏洞
 - SQL注入漏洞
-
 - 变量覆盖漏洞
 - 任意文件上传漏洞
 - 任意文件写入漏洞
 - 任意文件删除漏洞
 - 任意文件包含漏洞
 - 任意命令执行漏洞
-- 反序列化漏洞
-
+- PHP反序列化漏洞
 - XSS跨站脚本攻击
-
 - XML外部实体攻击
-
 - CSRF跨站请求伪造
-
 - SSRF服务端请求伪造
 
 ## 0x05-PHP安全
@@ -188,7 +179,6 @@
 此处排名不分先后，向自己在学习PHP语言过程中遇到的每一位优秀老师致敬。感谢感谢！
 
 一、PHP教程资源
-
 - 高洛峰-《细说PHP》作者
 
 二、PHP语言参考
