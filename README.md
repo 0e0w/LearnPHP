@@ -1,10 +1,10 @@
 # LearnPHP
 
-本项目记录自己在学习PHP过程中遇到的一些项目资源。包括优秀的基础教程或项目代码等。尽可能的理解PHP，尽可能的理解PHP漏洞原理，尽可能的挖掘PHP漏洞！作者：[0e0w](https://github.com/0e0w/LearnPHP)
+本项目是记录自己在学习PHP语言过程中遇到的一些优秀内容。包括优秀的学习资源或优秀的项目代码等。尽可能的理解PHP，尽可能的理解PHP漏洞原理，尽可能的挖掘PHP漏洞！作者：[0e0w](https://github.com/0e0w/LearnPHP)
 
-关于PHP的其他学习教程，可以参考[《365天深入理解PHP》](https://github.com/0e0w/365PHP)。PHP是世界上最好的语言！
+关于PHP的学习教程，可以参考[《365天深入理解PHP》](https://github.com/0e0w/365PHP)。PHP是世界上最好的语言！
 
-本项目创建于2020年9月27日，最近一次更新时间为2021年7月5日。
+本项目创建于2020年9月27日，最近一次更新时间为2021年7月5日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-PHP资源]()
 - [0x02-PHP框架]()
@@ -15,7 +15,7 @@
 
 ## 0x01-PHP资源
 
-一、基础入门
+一、基础书籍
 
 - [x] [《PHP基础教程》](https://github.com/daige/php)@daige
 - [ ] [《PHP菜鸟教程》](https://www.runoob.com/php/php-tutorial.html)@runoob
@@ -30,25 +30,27 @@
 - [ ] [《Clean Code PHP》](https://github.com/jupeter/clean-code-php)@jupeter
 - [ ] [《php-the-right-way》](https://github.com/codeguy/php-the-right-way)@codeguy
 
-二、高级进阶
-
-三、内置函数
-
-四、实体书籍
-
 - [ ] [《细说PHP》](https://item.jd.com/12669278.html)@高洛峰
 - [ ] [《PHP内核剖析》](https://item.jd.com/12267210.html)@秦朋
 - [ ] [《Modern PHP》](https://item.jd.com/11786541.html)@安道译
 
-五、学习视频
+二、视频教程
 
 - [ ] [PHP学习视频](https://github.com/woyard/phpmysql)
 
-六、论坛网站
+三、算法学习
+
+四、Web开发
+
+五、英文资源
+
+六、论坛版块
 
 - [ ] https://www.php.cn
 
-七、杂七杂八
+七、面试资料
+
+八、其它资源
 
 - [ ] [awesome-php](https://github.com/ziadoz/awesome-php)
 - [ ] [php-awesome](https://github.com/shockerli/php-awesome)
