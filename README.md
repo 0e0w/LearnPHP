@@ -93,13 +93,11 @@
 - [ ] https://github.com/wgpsec/VulnRange
 
 二、代码审计工具
-
 - [ ] https://github.com/xdebug/xdebug
 - [ ] https://github.com/phpstan/phpstan
 - [ ] https://github.com/ambionics/phpggc
 
 三、代码审计案例
-
 - [ ] https://github.com/hongriSec/PHP-Audit-Labs
 - [ ] https://github.com/aleenzz/php_bug_wiki
 - [ ] https://github.com/jiangsir404/Audit-Learning
@@ -137,6 +135,8 @@
 - SSRF服务端请求伪造
 
 五、安全编码规范
+
+六、代码审计培训
 
 ## 0x05-PHP安全
 
