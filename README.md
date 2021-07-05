@@ -15,6 +15,11 @@
 
 ## 0x01-PHP资源
 
+- https://github.com/0e0w/LearnPHP
+- https://github.com/ziadoz/awesome-php
+- https://github.com/shockerli/php-awesome
+- https://github.com/jobbole/awesome-php-cn
+
 一、基础书籍
 - [x] [《PHP基础教程》](https://github.com/daige/php)@daige
 - [ ] [《PHP菜鸟教程》](https://www.runoob.com/php/php-tutorial.html)@runoob
@@ -33,7 +38,7 @@
 - [ ] [《Modern PHP》](https://item.jd.com/11786541.html)@安道译
 
 二、视频教程
-- [ ] [PHP学习视频](https://github.com/woyard/phpmysql)
+- [ ] [《PHP学习视频》](https://github.com/woyard/phpmysql)@woyard
 
 三、算法学习
 
@@ -47,9 +52,6 @@
 七、面试资料
 
 八、其它资源
-- [ ] https://github.com/ziadoz/awesome-php
-- [ ] https://github.com/shockerli/php-awesome
-- [ ] https://github.com/jobbole/awesome-php-cn
 - [ ] https://github.com/TIGERB/easy-tips
 - [ ] https://github.com/VKCOM/kphp
 - [ ] https://github.com/composer/composer
@@ -90,7 +92,14 @@
 - [ ] https://github.com/s4n7h0/xvwa
 - [ ] https://github.com/wgpsec/VulnRange
 
-二、PHP代码审计
+二、代码审计工具
+
+- [ ] https://github.com/xdebug/xdebug
+- [ ] https://github.com/phpstan/phpstan
+- [ ] https://github.com/ambionics/phpggc
+
+三、代码审计案例
+
 - [ ] https://github.com/hongriSec/PHP-Audit-Labs
 - [ ] https://github.com/aleenzz/php_bug_wiki
 - [ ] https://github.com/jiangsir404/Audit-Learning
@@ -105,13 +114,13 @@
 - [ ] https://github.com/Jyny/pasc2at | 高级PHP应用程序漏洞审核技术
 - [ ] https://github.com/SukaraLin/php_code_audit_project
 - [ ] https://www.freebuf.com/articles/web/252333.html
-- [ ] https://github.com/xdebug/xdebug
 - [ ] https://github.com/lightswitch05/php-version-audit
-- [ ] https://github.com/phpstan/phpstan
 - [ ] https://github.com/marcocesarato/PHP-Antimalware-Scanner
 
-三、常规Web漏洞
-本部分详细列举常见的Java安全漏洞内容。
+四、常规Web漏洞
+
+本部分详细列举常见的PHP安全漏洞内容。
+
 - 程序安装问题
 - 业务逻辑漏洞
 - SQL注入漏洞
@@ -126,6 +135,8 @@
 - XML外部实体攻击
 - CSRF跨站请求伪造
 - SSRF服务端请求伪造
+
+五、安全编码规范
 
 ## 0x05-PHP安全
 
