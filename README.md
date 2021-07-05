@@ -1,19 +1,19 @@
 # LearnPHP
 
-本项目记录自己在学习PHP过程中遇到的一些优秀项目。包括优秀的基础教程和项目代码等。尽可能的理解PHP，尽可能的理解PHP漏洞原理，尽可能的挖掘PHP漏洞。作者：[0e0w](https://github.com/0e0w/LearnPHP)
+本项目记录自己在学习PHP过程中遇到的一些项目资源。包括优秀的基础教程或项目代码等。尽可能的理解PHP，尽可能的理解PHP漏洞原理，尽可能的挖掘PHP漏洞！作者：[0e0w](https://github.com/0e0w/LearnPHP)
 
 关于PHP的其他学习教程，可以参考[《365天深入理解PHP》](https://github.com/0e0w/365PHP)。PHP是世界上最好的语言！
 
-本项目创建于2020年9月27日，最近一次更新时间为2021年7月2日。
+本项目创建于2020年9月27日，最近一次更新时间为2021年7月5日。
 
-- [0x01-PHP学习资源](https://github.com/0e0w/LearnPHP#0x01-php%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
-- [0x02-PHP学习项目](https://github.com/0e0w/LearnPHP#0x02-php%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE)
-- [0x03-PHP漏洞靶场](https://github.com/0e0w/LearnPHP#0x03-php%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA)
-- [0x04-PHP代码审计](https://github.com/0e0w/LearnPHP#0x04-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
-- [0x05-PHP框架漏洞](https://github.com/0e0w/LearnPHP#0x05-php%E6%A1%86%E6%9E%B6%E6%BC%8F%E6%B4%9E)
-- [0x06-PHP安全工具](https://github.com/0e0w/LearnPHP#0x06-php%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7)
+- [0x01-PHP资源]()
+- [0x02-PHP框架]()
+- [0x03-PHP项目]()
+- [0x04-PHP漏洞]()
+- [0x05-PHP安全]()
+- [0x06-PHP老师]()
 
-## 0x01-PHP学习资源
+## 0x01-PHP资源
 
 一、基础入门
 
@@ -59,13 +59,29 @@
 - [ ] https://github.com/superve/php-development
 - [ ] https://github.com/wudi/php-internals-material
 
-## 0x02-PHP学习项目
+## 0x02-PHP框架
+
+一、Web框架
+- [ ] http://www.thinkphp.cn
+- [ ] https://www.yiiframework.com
+- [ ] https://github.com/laravel/laravel
+
+二、YII
+- [ ] https://xz.aliyun.com/t/8307
+
+三、Laravel
+- [ ] https://laravel.com
+
+四、管理后台
+- [ ] https://laravel-admin.org
+
+## 0x03-PHP项目
 
 - [ ] https://github.com/simon816/PHPDeobfuscator
 - [ ] https://github.com/BookStackApp/BookStack
 - [ ] https://github.com/linuxserver/Heimdall
 
-## 0x03-PHP漏洞靶场
+## 0x04-PHP漏洞
 
 - [ ] https://github.com/digininja/DVWA
 - [ ] https://github.com/710leo/ZVulDrill
@@ -73,8 +89,6 @@
 - [ ] https://github.com/c0ny1/upload-labs
 - [ ] https://github.com/s4n7h0/xvwa
 - [ ] https://github.com/wgpsec/VulnRange
-
-## 0x04-PHP代码审计
 
 - [ ] [PHP-Audit-Labs](https://github.com/hongriSec/PHP-Audit-Labs)
 - [ ] [php_bug_wiki](https://github.com/aleenzz/php_bug_wiki)
@@ -93,22 +107,7 @@
 - [ ] https://github.com/xdebug/xdebug
 - [ ] https://github.com/lightswitch05/php-version-audit
 
-## 0x05-PHP框架漏洞
-
-一、Thinkphp
-
-- [ ] http://www.thinkphp.cn
-
-二、YII
-
-- [ ] https://xz.aliyun.com/t/8307
-
-三、Laravel
-
-- [ ] https://laravel.com
-- [ ] https://github.com/laravel/laravel
-
-## 0x06-PHP安全工具
+## 0x05-PHP安全
 
 〇、HackWithPHP
 
@@ -171,6 +170,6 @@
 - [ ] https://github.com/GemGeorge/SniperPhish
 - [ ] https://github.com/smaranchand/bucky
 
-## 0x07-PHP语言老师
+## 0x06-PHP老师
 
 - [ ] 高洛峰
