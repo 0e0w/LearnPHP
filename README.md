@@ -4,7 +4,7 @@
 
 关于PHP的学习教程，可以参考[《365天深入理解PHP》](https://github.com/0e0w/365PHP)。PHP是世界上最好的语言！
 
-本项目创建于2020年9月27日，最近一次更新时间为2021年7月5日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月27日，最近一次更新时间为2021年7月8日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-PHP资源](https://github.com/0e0w/LearnPHP#0x01-php%E8%B5%84%E6%BA%90)
 - [0x02-PHP框架](https://github.com/0e0w/LearnPHP#0x02-php%E6%A1%86%E6%9E%B6)
@@ -21,7 +21,7 @@
 - https://github.com/jobbole/awesome-php-cn
 
 一、基础书籍
-- [x] [《PHP基础教程》](https://github.com/daige/php)@daige
+- [ ] [《PHP基础教程》](https://github.com/daige/php)@daige
 - [ ] [《PHP菜鸟教程》](https://www.runoob.com/php/php-tutorial.html)@runoob
 - [ ] [《PHP教程》](https://www.w3school.com.cn/php/index.asp)@w3school
 - [ ] [《PHP易百教程》](https://www.yiibai.com/php/)@yiibai
@@ -60,18 +60,20 @@
 
 ## 0x02-PHP框架
 
-一、Web框架
+本部分收集整理PHP框架以及框架的漏洞。
+
+一、ThinkPHP
 - [ ] http://www.thinkphp.cn
-- [ ] https://www.yiiframework.com
-- [ ] https://github.com/laravel/laravel
 
 二、YII
 - [ ] https://xz.aliyun.com/t/8307
+- [ ] https://www.yiiframework.com
 
 三、Laravel
 - [ ] https://laravel.com
+- [ ] https://github.com/laravel/laravel
 
-四、管理后台
+四、laravel-admin
 - [ ] https://laravel-admin.org
 
 ## 0x03-PHP项目
@@ -91,13 +93,23 @@
 - [ ] https://github.com/c0ny1/upload-labs
 - [ ] https://github.com/s4n7h0/xvwa
 - [ ] https://github.com/wgpsec/VulnRange
+- [ ] https://github.com/zhuifengshaonianhanlu/pikachu
+- [ ] https://github.com/Audi-1/sqli-labs
+- [ ] https://github.com/sqlsec/xssgame
+- [ ] https://github.com/c0ny1/upload-labs
+- [ ] https://github.com/s4n7h0/xvwa
+- [ ] https://github.com/710leo/ZVulDrill
+- [ ] https://github.com/redBu1l/ZVulDrill
 
 二、代码审计工具
 - [ ] https://github.com/xdebug/xdebug
 - [ ] https://github.com/phpstan/phpstan
 - [ ] https://github.com/ambionics/phpggc
 
-三、代码审计案例
+三、代码审计资源
+
+- https://github.com/topics/static-analysis?l=php
+
 - [ ] https://github.com/hongriSec/PHP-Audit-Labs
 - [ ] https://github.com/aleenzz/php_bug_wiki
 - [ ] https://github.com/jiangsir404/Audit-Learning
@@ -114,6 +126,7 @@
 - [ ] https://www.freebuf.com/articles/web/252333.html
 - [ ] https://github.com/lightswitch05/php-version-audit
 - [ ] https://github.com/marcocesarato/PHP-Antimalware-Scanner
+- [ ] https://github.com/FriendsOfPHP/PHP-CS-Fixer
 
 四、常规Web漏洞
 
@@ -140,6 +153,8 @@
 
 ## 0x05-PHP安全
 
+本部分收集整理使用PHP写的安全工具。
+
 〇、HackWithPHP
 - [ ] https://github.com/topics/xss?l=php
 - [ ] https://github.com/topics/xss-attacks?l=php
@@ -152,19 +167,14 @@
 - [ ] https://github.com/flozz/p0wny-shell
 
 二、域名扫描
-- [ ] https://github.com
 
 三、密码爆破
-- [ ] https://github.com
 
 四、端口扫描
-- [ ] https://github.com
 
 五、目录扫描
-- [ ] https://github.com
 
 六、Web安全
-- [ ] https://github.com
 
 七、漏洞扫描
 - [ ] https://github.com/Cvar1984/sqlscan
