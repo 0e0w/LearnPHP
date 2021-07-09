@@ -4,7 +4,7 @@
 
 关于PHP的学习教程，可以参考[《365天深入理解PHP》](https://github.com/0e0w/365PHP)。PHP是世界上最好的语言！
 
-本项目创建于2020年9月27日，最近一次更新时间为2021年7月8日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月27日，最近一次更新时间为2021年7月9日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-PHP资源](https://github.com/0e0w/LearnPHP#0x01-php%E8%B5%84%E6%BA%90)
 - [0x02-PHP框架](https://github.com/0e0w/LearnPHP#0x02-php%E6%A1%86%E6%9E%B6)
@@ -65,7 +65,7 @@
 一、ThinkPHP
 - [ ] http://www.thinkphp.cn
 
-二、YII
+二、Yii
 - [ ] https://xz.aliyun.com/t/8307
 - [ ] https://www.yiiframework.com
 
@@ -76,6 +76,10 @@
 四、laravel-admin
 - [ ] https://laravel-admin.org
 
+五、zendframwork
+
+六、SpeedPHP
+
 ## 0x03-PHP项目
 
 - [ ] https://github.com/simon816/PHPDeobfuscator
@@ -85,6 +89,8 @@
 ## 0x04-PHP漏洞
 
 本部分详解PHP漏洞内容。包括PHP的常规漏洞，以及PHP代码审计等相关内容。
+
+- https://github.com/0e0w/HackPHP
 
 一、PHP漏洞靶场
 - [ ] https://github.com/digininja/DVWA
@@ -105,11 +111,11 @@
 - [ ] https://github.com/xdebug/xdebug
 - [ ] https://github.com/phpstan/phpstan
 - [ ] https://github.com/ambionics/phpggc
+- [ ] https://github.com/ripsscanner/rips
+- [ ] https://github.com/robocoder/rips-scanner
 
 三、代码审计资源
-
 - https://github.com/topics/static-analysis?l=php
-
 - [ ] https://github.com/hongriSec/PHP-Audit-Labs
 - [ ] https://github.com/aleenzz/php_bug_wiki
 - [ ] https://github.com/jiangsir404/Audit-Learning
@@ -155,9 +161,9 @@
 
 本部分收集整理使用PHP写的安全工具。
 
-〇、HackWithPHP
-- [ ] https://github.com/topics/xss?l=php
-- [ ] https://github.com/topics/xss-attacks?l=php
+- https://github.com/topics/xss?l=php
+
+- https://github.com/topics/xss-attacks?l=php
 
 一、Webshell
 - [ ] https://github.com/tennc/webshell
@@ -186,7 +192,6 @@
 - [ ] https://github.com/ZeroDream-CN/SakuraPanel
 
 九、病毒免杀
-- [ ] https://github.com
 
 十一、其他项目
 - [ ] https://github.com/4x99/code6
