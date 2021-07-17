@@ -4,7 +4,7 @@
 
 关于PHP的学习教程，可以参考[《365天深入理解PHP》](https://github.com/0e0w/365PHP)。PHP是世界上最好的语言！
 
-本项目创建于2020年9月27日，最近一次更新时间为2021年7月13日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月27日，最近一次更新时间为2021年7月17日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-PHP资源](https://github.com/0e0w/LearnPHP#0x01-php%E8%B5%84%E6%BA%90)
 - [0x02-PHP框架](https://github.com/0e0w/LearnPHP#0x02-php%E6%A1%86%E6%9E%B6)
@@ -88,75 +88,7 @@
 
 ## 0x04-PHP漏洞
 
-本部分详解PHP漏洞内容。包括PHP的常规漏洞，以及PHP代码审计等相关内容。
-
 - https://github.com/0e0w/HackPHP
-
-一、PHP漏洞靶场
-- [ ] https://github.com/digininja/DVWA
-- [ ] https://github.com/710leo/ZVulDrill
-- [ ] https://github.com/Acmesec/DoraBox
-- [ ] https://github.com/c0ny1/upload-labs
-- [ ] https://github.com/s4n7h0/xvwa
-- [ ] https://github.com/wgpsec/VulnRange
-- [ ] https://github.com/zhuifengshaonianhanlu/pikachu
-- [ ] https://github.com/Audi-1/sqli-labs
-- [ ] https://github.com/sqlsec/xssgame
-- [ ] https://github.com/c0ny1/upload-labs
-- [ ] https://github.com/s4n7h0/xvwa
-- [ ] https://github.com/710leo/ZVulDrill
-- [ ] https://github.com/redBu1l/ZVulDrill
-- [ ] https://github.com/0xs1riu5/vulawdhub
-
-二、代码审计工具
-- [ ] https://github.com/xdebug/xdebug
-- [ ] https://github.com/phpstan/phpstan
-- [ ] https://github.com/ambionics/phpggc
-- [ ] https://github.com/ripsscanner/rips
-- [ ] https://github.com/robocoder/rips-scanner
-
-三、代码审计资源
-- https://github.com/topics/static-analysis?l=php
-- [ ] https://github.com/hongriSec/PHP-Audit-Labs
-- [ ] https://github.com/aleenzz/php_bug_wiki
-- [ ] https://github.com/jiangsir404/Audit-Learning
-- [ ] https://github.com/jiangsir404/PHP-code-audit
-- [ ] https://github.com/SecWiki/CMS-Hunter
-- [ ] https://github.com/yaofeifly/PHP_Code_Challenge
-- [ ] https://github.com/ambionics/phpggc
-- [ ] https://github.com/vimeo/psalm
-- [ ] https://github.com/nikic/php-parser
-- [ ] https://github.com/bowu678/php_bugs | PHP代码审计分段讲解
-- [ ] https://github.com/Xyntax/1000php | 1000个PHP代码审计案例
-- [ ] https://github.com/Jyny/pasc2at | 高级PHP应用程序漏洞审核技术
-- [ ] https://github.com/SukaraLin/php_code_audit_project
-- [ ] https://www.freebuf.com/articles/web/252333.html
-- [ ] https://github.com/lightswitch05/php-version-audit
-- [ ] https://github.com/marcocesarato/PHP-Antimalware-Scanner
-- [ ] https://github.com/FriendsOfPHP/PHP-CS-Fixer
-
-四、常规Web漏洞
-
-本部分详细列举常见的PHP安全漏洞内容。
-
-- 程序安装问题
-- 业务逻辑漏洞
-- SQL注入漏洞
-- 变量覆盖漏洞
-- 任意文件上传漏洞
-- 任意文件写入漏洞
-- 任意文件删除漏洞
-- 任意文件包含漏洞
-- 任意命令执行漏洞
-- PHP反序列化漏洞
-- XSS跨站脚本攻击
-- XML外部实体攻击
-- CSRF跨站请求伪造
-- SSRF服务端请求伪造
-
-五、安全编码规范
-
-六、代码审计培训
 
 ## 0x05-PHP安全
 
