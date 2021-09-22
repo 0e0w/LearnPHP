@@ -4,7 +4,7 @@
 
 关于PHP的学习教程，可以参考[《365天深入理解PHP》](https://github.com/0e0w/365PHP)。PHP是世界上最好的语言！
 
-本项目创建于2020年9月27日，最近一次更新时间为2021年8月28日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月27日，最近一次更新时间为2021年9月23日。本项目会持续更新，直到海枯石烂。
 
 - [0x01-PHP资源](https://github.com/0e0w/LearnPHP#0x01-php%E8%B5%84%E6%BA%90)
 - [0x02-PHP框架](https://github.com/0e0w/LearnPHP#0x02-php%E6%A1%86%E6%9E%B6)
@@ -57,6 +57,7 @@
 - [ ] https://github.com/composer/composer
 - [ ] https://github.com/superve/php-development
 - [ ] https://github.com/wudi/php-internals-material
+- [ ] https://github.com/pangudashu/php7-internal
 
 ## 0x02-PHP框架
 
