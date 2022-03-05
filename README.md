@@ -4,16 +4,16 @@
 
 关于PHP的学习教程，可以参考[《365天深入理解PHP》](https://github.com/0e0w/365PHP)。PHP是世界上最好的语言！
 
-本项目创建于2020年9月27日，最近一次更新时间为2021年10月14日。本项目会持续更新，直到海枯石烂。
+本项目创建于2020年9月27日，最近一次更新时间为2021年3月5日。本项目会持续更新，直到海枯石烂。
 
-- [0x01-PHP资源](https://github.com/0e0w/LearnPHP#0x01-php%E8%B5%84%E6%BA%90)
-- [0x02-PHP框架](https://github.com/0e0w/LearnPHP#0x02-php%E6%A1%86%E6%9E%B6)
-- [0x03-PHP项目](https://github.com/0e0w/LearnPHP#0x03-php%E9%A1%B9%E7%9B%AE)
-- [0x04-PHP漏洞](https://github.com/0e0w/LearnPHP#0x04-php%E6%BC%8F%E6%B4%9E)
-- [0x05-PHP安全](https://github.com/0e0w/LearnPHP#0x05-php%E5%AE%89%E5%85%A8)
-- [0x06-PHP老师](https://github.com/0e0w/LearnPHP#0x06-php%E8%80%81%E5%B8%88)
+- [01-PHP资源](https://github.com/0e0w/LearnPHP#01-php%E8%B5%84%E6%BA%90)
+- [02-PHP框架](https://github.com/0e0w/LearnPHP#02-php%E6%A1%86%E6%9E%B6)
+- [03-PHP项目](https://github.com/0e0w/LearnPHP#03-php%E9%A1%B9%E7%9B%AE)
+- [04-PHP漏洞](https://github.com/0e0w/LearnPHP#04-php%E6%BC%8F%E6%B4%9E)
+- [05-PHP安全](https://github.com/0e0w/LearnPHP#05-php%E5%AE%89%E5%85%A8)
+- [06-PHP老师](https://github.com/0e0w/LearnPHP#06-php%E8%80%81%E5%B8%88)
 
-## 0x01-PHP资源
+## 01-PHP资源
 
 - https://github.com/0e0w/LearnPHP
 - https://github.com/ziadoz/awesome-php
@@ -59,7 +59,7 @@
 - [ ] https://github.com/wudi/php-internals-material
 - [ ] https://github.com/pangudashu/php7-internal
 
-## 0x02-PHP框架
+## 02-PHP框架
 
 本部分收集整理PHP框架以及框架的漏洞。
 
@@ -81,17 +81,17 @@
 
 六、SpeedPHP
 
-## 0x03-PHP项目
+## 03-PHP项目
 
 - [ ] https://github.com/simon816/PHPDeobfuscator
 - [ ] https://github.com/BookStackApp/BookStack
 - [ ] https://github.com/linuxserver/Heimdall
 
-## 0x04-PHP漏洞
+## 04-PHP漏洞
 
 - https://github.com/0e0w/HackPHP
 
-## 0x05-PHP安全
+## 05-PHP安全
 
 本部分收集整理使用PHP写的安全工具。
 
@@ -135,7 +135,7 @@
 - [ ] https://github.com/smaranchand/bucky
 - [ ] [《漫谈PHP反汇编器/反编译器》](https://mp.weixin.qq.com/s/bmdSyZem46aukj_hvLhu0w)
 
-## 0x06-PHP老师
+## 06-PHP老师
 
 此处排名不分先后，向自己在学习PHP语言过程中遇到的每一位优秀老师致敬。感谢感谢！
 
